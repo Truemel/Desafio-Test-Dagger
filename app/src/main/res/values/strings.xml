@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DesafioTestDagger</string>
+    <string name="show">Mostrar</string>
+    <string name="clean">Limpiar</string>
+</resources>
